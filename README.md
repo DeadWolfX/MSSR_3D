@@ -2,7 +2,7 @@
 
 <p>In the following repository, you will find two directories: <b>MSSR_3D_jupyterlab</b> and <b>MSSR_3D_command_line.</b> Both of them contain implementations of MSSR in three dimensions. The difference between these two is that the first one can be executed using Jupyter Lab, while the other is executable from the command line.</p><br>
 
-<h2><b>Importan Note</b></h2>
+<h2><b>Important Note</b></h2>
 
 <p>This code is in developing and testing phase </p>
 
