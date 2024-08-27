@@ -4,7 +4,6 @@
 
 <h2><b>Important Note</b></h2>
 
-<p>This code is in developing and testing phase </p>
 
 <p>This project is based in the ideas of the article <a href="https://www.nature.com/articles/s41467-022-34693-9">Extending resolution within a single imaging frame 
 </a> but extendig to a 3D images</p>
